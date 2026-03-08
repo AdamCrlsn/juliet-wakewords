@@ -3,7 +3,7 @@
     "wake_word": "Juliet",
     "author": "Adam Carlson",
     "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-    "model": "https://raw.githubusercontent.com/AdamCrlsn/juliet-wakewords/main/juliet.tflite",
+    "model": "juliet.tflite",
     "trained_languages": ["en"],
     "version": 2,
     "micro": {
